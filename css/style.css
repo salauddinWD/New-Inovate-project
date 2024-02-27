@@ -551,6 +551,7 @@ ol {
     display: flex;
     position: relative;
     margin-top: 60px;
+    z-index: 1;
 }
 
 .connect_left {
