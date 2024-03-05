@@ -328,8 +328,8 @@ ol {
     position: absolute;
     bottom: 111%;
     right: 46%;
-    animation: banner_round 2s;
-    -webkit-animation: banner_round 1s infinite linear;
+    animation: banner_round 2s infinite linear;
+    -webkit-animation: banner_round 2s infinite linear;
 }
 
 .animation_roundDot {
